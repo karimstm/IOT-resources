@@ -3,4 +3,4 @@ The aim of the repository is list all the resouces needed to complent `inception
 
 ## Usefull Commands
 Initialize the directory
-`vagrant init hashicorp/bionic64`
+`vagrant init USER/BOX`
